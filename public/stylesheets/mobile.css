@@ -1,0 +1,12 @@
+.mobile_login ol {
+  display:none;
+}
+
+fieldset.mobile_login {
+    width: 280px;
+}
+
+.mobile_login .tip {
+    width: 260px;
+    
+}
